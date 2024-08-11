@@ -1,0 +1,19 @@
+
+.trades-box {
+	overflow: auto;
+}
+
+table.trades-results {
+	
+	th {
+		background: $light;
+		white-space: nowrap;
+		padding: $padding $padding*2;
+	}
+	td {
+		border: none;
+		white-space: nowrap;
+		padding: $padding/2 $padding*2;
+	}
+	
+}
